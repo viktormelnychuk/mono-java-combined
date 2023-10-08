@@ -1,0 +1,35 @@
+{
+  "clientId": "client_id",
+  "name": "Test User",
+  "webHookUrl": "http://localhost/webhook",
+  "permissions": "psfj",
+  "accounts": [
+    {
+      "id": "account_1_id",
+      "sendId": "sendid_1",
+      "currencyCode": 980,
+      "cashbackType": "Miles",
+      "balance": 20911872,
+      "creditLimit": 20000000,
+      "maskedPan": [
+        "535838******5599",
+        "444111******4447"
+      ],
+      "type": "platinum",
+      "iban": "UA22222222222222222"
+    },
+    {
+      "id": "account_2_id",
+      "sendId": "sendid_2",
+      "currencyCode": 980,
+      "cashbackType": "Miles",
+      "balance": 47554,
+      "creditLimit": 0,
+      "maskedPan": [
+        "537541******3901"
+      ],
+      "type": "white",
+      "iban": "UA333333333333333333"
+    }
+  ]
+}

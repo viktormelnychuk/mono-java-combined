@@ -1,0 +1,3926 @@
+[
+  {
+    "code": "1520",
+    "description": "Будівництво. Підрядники"
+  },
+  {
+    "code": "1711",
+    "description": "Кондиціонери. Встановлення"
+  },
+  {
+    "code": "1731",
+    "description": "Електрики"
+  },
+  {
+    "code": "1740",
+    "description": "Будівники. Облицювання"
+  },
+  {
+    "code": "1750",
+    "description": "Столяри"
+  },
+  {
+    "code": "1761",
+    "description": "Покрівельники"
+  },
+  {
+    "code": "1771",
+    "description": "Будівництво. Бетон"
+  },
+  {
+    "code": "1799",
+    "description": "Контрактори"
+  },
+  {
+    "code": "2741",
+    "description": "Друкарська справа"
+  },
+  {
+    "code": "2791",
+    "description": "Набиральники"
+  },
+  {
+    "code": "2842",
+    "description": "Чистка"
+  },
+  {
+    "code": "3000",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3001",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3002",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3003",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3004",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3005",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3006",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3007",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3008",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3009",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3010",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3011",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3012",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3013",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3014",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3015",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3016",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3017",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3018",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3019",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3020",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3021",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3022",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3023",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3024",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3025",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3026",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3027",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3028",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3029",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3030",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3031",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3032",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3033",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3034",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3035",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3036",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3037",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3038",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3039",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3040",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3041",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3042",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3043",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3044",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3045",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3046",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3047",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3048",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3049",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3050",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3051",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3052",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3053",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3054",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3055",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3056",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3057",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3058",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3059",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3060",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3061",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3062",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3063",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3064",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3065",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3066",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3067",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3068",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3069",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3070",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3071",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3072",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3073",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3074",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3075",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3076",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3077",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3078",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3079",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3080",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3081",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3082",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3083",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3084",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3085",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3086",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3087",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3088",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3089",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3090",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3091",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3092",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3093",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3094",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3095",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3096",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3097",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3098",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3099",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3100",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3101",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3102",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3103",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3104",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3105",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3106",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3107",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3108",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3109",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3110",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3111",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3112",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3113",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3114",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3115",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3116",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3117",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3118",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3119",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3120",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3121",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3122",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3123",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3124",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3125",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3126",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3127",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3128",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3129",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3130",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3131",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3132",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3133",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3134",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3135",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3136",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3137",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3138",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3139",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3140",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3141",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3142",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3143",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3144",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3145",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3146",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3147",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3148",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3149",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3150",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3151",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3152",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3153",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3154",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3155",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3156",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3157",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3158",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3159",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3160",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3161",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3162",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3163",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3164",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3165",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3166",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3167",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3168",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3169",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3170",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3171",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3172",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3173",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3174",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3175",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3176",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3177",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3178",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3179",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3180",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3181",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3182",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3183",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3184",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3185",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3186",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3187",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3188",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3189",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3190",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3191",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3192",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3193",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3194",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3195",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3196",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3197",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3198",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3199",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3200",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3201",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3202",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3203",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3204",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3205",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3206",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3207",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3208",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3209",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3210",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3211",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3212",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3213",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3214",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3215",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3216",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3217",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3218",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3219",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3220",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3221",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3222",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3223",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3224",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3225",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3226",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3227",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3228",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3229",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3230",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3231",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3232",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3233",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3234",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3235",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3236",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3237",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3238",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3239",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3240",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3241",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3242",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3243",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3244",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3245",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3246",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3247",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3248",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3249",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3250",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3251",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3252",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3253",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3254",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3255",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3256",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3257",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3258",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3259",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3260",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3261",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3262",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3263",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3264",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3265",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3266",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3267",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3268",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3269",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3270",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3271",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3272",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3273",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3274",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3275",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3276",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3277",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3278",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3279",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3280",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3281",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3282",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3283",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3284",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3285",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3286",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3287",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3288",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3289",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3290",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3291",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3292",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3293",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3294",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3295",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3296",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3297",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3298",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3299",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "3351",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3352",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3353",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3354",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3355",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3356",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3357",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3358",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3359",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3360",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3361",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3362",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3363",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3364",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3365",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3366",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3367",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3368",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3369",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3370",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3371",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3372",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3373",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3374",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3375",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3376",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3377",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3378",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3379",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3380",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3381",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3382",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3383",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3384",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3385",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3386",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3387",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3388",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3389",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3390",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3391",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3392",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3393",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3394",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3395",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3396",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3397",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3398",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3399",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3400",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3401",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3402",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3403",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3404",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3405",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3406",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3407",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3408",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3409",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3410",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3411",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3412",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3413",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3414",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3415",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3416",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3417",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3418",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3419",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3420",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3421",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3422",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3423",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3424",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3425",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3426",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3427",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3428",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3429",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3430",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3431",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3432",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3433",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3434",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3435",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3436",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3437",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3438",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3439",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3440",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3441",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "3501",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3502",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3503",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3504",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3505",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3506",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3507",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3508",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3509",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3510",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3511",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3512",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3513",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3514",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3515",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3516",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3517",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3518",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3519",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3520",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3521",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3522",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3523",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3524",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3525",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3526",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3527",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3528",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3529",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3530",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3531",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3532",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3533",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3534",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3535",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3536",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3537",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3538",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3539",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3540",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3541",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3542",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3543",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3544",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3545",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3546",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3547",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3548",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3549",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3550",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3551",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3552",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3553",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3554",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3555",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3556",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3557",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3558",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3559",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3560",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3561",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3562",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3563",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3564",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3565",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3566",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3567",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3568",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3569",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3570",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3571",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3572",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3573",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3574",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3575",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3576",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3577",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3578",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3579",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3580",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3581",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3582",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3583",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3584",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3585",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3586",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3587",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3588",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3589",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3590",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3591",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3592",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3593",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3594",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3595",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3596",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3597",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3598",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3599",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3600",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3601",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3602",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3603",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3604",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3605",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3606",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3607",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3608",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3609",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3610",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3611",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3612",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3613",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3614",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3615",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3616",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3617",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3618",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3619",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3620",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3621",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3622",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3623",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3624",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3625",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3626",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3627",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3628",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3629",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3630",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3631",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3632",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3633",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3634",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3635",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3636",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3637",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3638",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3639",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3640",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3641",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3642",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3643",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3644",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3645",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3646",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3647",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3648",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3649",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3650",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3651",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3652",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3653",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3654",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3655",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3656",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3657",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3658",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3659",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3660",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3661",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3662",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3663",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3664",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3665",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3666",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3667",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3668",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3669",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3670",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3671",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3672",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3673",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3674",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3675",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3676",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3677",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3678",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3679",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3680",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3681",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3682",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3683",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3684",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3685",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3686",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3687",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3688",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3689",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3690",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3691",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3692",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3693",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3694",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3695",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3696",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3697",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3698",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3699",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3700",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3701",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3702",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3703",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3704",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3705",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3706",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3707",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3708",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3709",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3710",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3711",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3712",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3713",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3714",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3715",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3716",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3717",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3718",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3719",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3720",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3721",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3722",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3723",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3724",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3725",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3726",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3727",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3728",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3729",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3730",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3731",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3732",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3733",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3734",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3735",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3736",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3737",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3738",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3739",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3740",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3741",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3742",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3743",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3744",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3745",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3746",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3747",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3748",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3749",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3750",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3751",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3752",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3753",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3754",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3755",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3756",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3757",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3758",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3759",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3760",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3761",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3762",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3763",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3764",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3765",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3766",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3767",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3768",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3769",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3770",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3771",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3772",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3773",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3774",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3775",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3776",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3777",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3778",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3779",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3780",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3781",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3782",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3783",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3784",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3785",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3786",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3787",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3788",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3789",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3790",
+    "description": "Готелі. Курорти"
+  },
+  {
+    "code": "3816",
+    "description": "Готелі"
+  },
+  {
+    "code": "3835",
+    "description": "Готелі"
+  },
+  {
+    "code": "4011",
+    "description": "Залізниця"
+  },
+  {
+    "code": "4111",
+    "description": "Перевезення"
+  },
+  {
+    "code": "4112",
+    "description": "Залізниця"
+  },
+  {
+    "code": "4119",
+    "description": "Швидка допомога"
+  },
+  {
+    "code": "4121",
+    "description": "Таксі"
+  },
+  {
+    "code": "4131",
+    "description": "Перевезення. Автобус"
+  },
+  {
+    "code": "4214",
+    "description": "Транспортування. Доставка"
+  },
+  {
+    "code": "4215",
+    "description": "Кур'єри"
+  },
+  {
+    "code": "4225",
+    "description": "Сховище"
+  },
+  {
+    "code": "4411",
+    "description": "Круїзні лінії"
+  },
+  {
+    "code": "4457",
+    "description": "Оренда суден"
+  },
+  {
+    "code": "4468",
+    "description": "Яхтинговий сервіс"
+  },
+  {
+    "code": "4511",
+    "description": "Авіалінії"
+  },
+  {
+    "code": "4582",
+    "description": "Аеропорти"
+  },
+  {
+    "code": "4722",
+    "description": "Туристичні агенції"
+  },
+  {
+    "code": "4723",
+    "description": "Туроператор"
+  },
+  {
+    "code": "4784",
+    "description": "Платні дороги"
+  },
+  {
+    "code": "4789",
+    "description": "Транспортні послуги"
+  },
+  {
+    "code": "4812",
+    "description": "Телекомунікаційне обладнання"
+  },
+  {
+    "code": "4814",
+    "description": "Мобільний зв'язок"
+  },
+  {
+    "code": "4815",
+    "description": "Телефонні послуги"
+  },
+  {
+    "code": "4816",
+    "description": "Інформаційні послуги"
+  },
+  {
+    "code": "4821",
+    "description": "Телеграф"
+  },
+  {
+    "code": "4829",
+    "description": "Переказ"
+  },
+  {
+    "code": "4899",
+    "description": "Телебачення"
+  },
+  {
+    "code": "4900",
+    "description": "Комунальні послуги"
+  },
+  {
+    "code": "5013",
+    "description": "Автозапчастини"
+  },
+  {
+    "code": "5021",
+    "description": "Меблі"
+  },
+  {
+    "code": "5039",
+    "description": "Будматеріали"
+  },
+  {
+    "code": "5044",
+    "description": "Офісне приладдя"
+  },
+  {
+    "code": "5045",
+    "description": "Комп'ютери. Програмне забезпечення"
+  },
+  {
+    "code": "5046",
+    "description": "Обладнання"
+  },
+  {
+    "code": "5047",
+    "description": "Медичне обладнання"
+  },
+  {
+    "code": "5051",
+    "description": "Обробка металу"
+  },
+  {
+    "code": "5065",
+    "description": "Електроніка"
+  },
+  {
+    "code": "5072",
+    "description": "Апаратура"
+  },
+  {
+    "code": "5074",
+    "description": "Сантехніка"
+  },
+  {
+    "code": "5085",
+    "description": "Промисловість"
+  },
+  {
+    "code": "5094",
+    "description": "Дорогоцінності"
+  },
+  {
+    "code": "5099",
+    "description": "Товари"
+  },
+  {
+    "code": "5111",
+    "description": "Канцелярія"
+  },
+  {
+    "code": "5122",
+    "description": "Ліки"
+  },
+  {
+    "code": "5131",
+    "description": "Текстиль"
+  },
+  {
+    "code": "5137",
+    "description": "Одяг"
+  },
+  {
+    "code": "5139",
+    "description": "Взуття"
+  },
+  {
+    "code": "5169",
+    "description": "Хімія"
+  },
+  {
+    "code": "5172",
+    "description": "Бензин"
+  },
+  {
+    "code": "5192",
+    "description": "Книги. Преса"
+  },
+  {
+    "code": "5193",
+    "description": "Квіти"
+  },
+  {
+    "code": "5198",
+    "description": "Фарби"
+  },
+  {
+    "code": "5199",
+    "description": "Товари"
+  },
+  {
+    "code": "5200",
+    "description": "Товари для дому"
+  },
+  {
+    "code": "5211",
+    "description": "Будматеріали"
+  },
+  {
+    "code": "5231",
+    "description": "Ремонт"
+  },
+  {
+    "code": "5251",
+    "description": "Залізні товари"
+  },
+  {
+    "code": "5261",
+    "description": "Садове приладдя"
+  },
+  {
+    "code": "5271",
+    "description": "Будинки на колесах"
+  },
+  {
+    "code": "5300",
+    "description": "Оптовики"
+  },
+  {
+    "code": "5309",
+    "description": "Duty Free"
+  },
+  {
+    "code": "5310",
+    "description": "Дискаунтери"
+  },
+  {
+    "code": "5311",
+    "description": "Універмаги"
+  },
+  {
+    "code": "5331",
+    "description": "Універмаги"
+  },
+  {
+    "code": "5399",
+    "description": "Універмаги"
+  },
+  {
+    "code": "5411",
+    "description": "Продукти"
+  },
+  {
+    "code": "5422",
+    "description": "М'ясо"
+  },
+  {
+    "code": "5441",
+    "description": "Солодощі"
+  },
+  {
+    "code": "5451",
+    "description": "Фермерські товари"
+  },
+  {
+    "code": "5462",
+    "description": "Пекарні"
+  },
+  {
+    "code": "5499",
+    "description": "Продукти"
+  },
+  {
+    "code": "5511",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5521",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5531",
+    "description": "Автозапчастини"
+  },
+  {
+    "code": "5532",
+    "description": "Шини"
+  },
+  {
+    "code": "5533",
+    "description": "Автомагазини"
+  },
+  {
+    "code": "5541",
+    "description": "СТО"
+  },
+  {
+    "code": "5542",
+    "description": "АЗС"
+  },
+  {
+    "code": "5551",
+    "description": "Човни"
+  },
+  {
+    "code": "5561",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5571",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5592",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5598",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5599",
+    "description": "Автосалони"
+  },
+  {
+    "code": "5611",
+    "description": "Чоловічий одяг"
+  },
+  {
+    "code": "5621",
+    "description": "Жіночий одяг"
+  },
+  {
+    "code": "5631",
+    "description": "Жіночий одяг"
+  },
+  {
+    "code": "5641",
+    "description": "Дитячий одяг"
+  },
+  {
+    "code": "5651",
+    "description": "Одяг"
+  },
+  {
+    "code": "5655",
+    "description": "Спортивний одяг"
+  },
+  {
+    "code": "5661",
+    "description": "Взуття"
+  },
+  {
+    "code": "5681",
+    "description": "Хутро"
+  },
+  {
+    "code": "5691",
+    "description": "Одяг"
+  },
+  {
+    "code": "5697",
+    "description": "Ательє"
+  },
+  {
+    "code": "5698",
+    "description": "Перуки"
+  },
+  {
+    "code": "5699",
+    "description": "Аксесуари"
+  },
+  {
+    "code": "5712",
+    "description": "Фурнітура"
+  },
+  {
+    "code": "5713",
+    "description": "Покриття для підлоги"
+  },
+  {
+    "code": "5714",
+    "description": "Штори. Фіранки"
+  },
+  {
+    "code": "5718",
+    "description": "Каміни"
+  },
+  {
+    "code": "5719",
+    "description": "Фурнітура"
+  },
+  {
+    "code": "5722",
+    "description": "Побутова техніка"
+  },
+  {
+    "code": "5732",
+    "description": "Побутова техніка"
+  },
+  {
+    "code": "5733",
+    "description": "Музичні інструменти"
+  },
+  {
+    "code": "5734",
+    "description": "Комп'ютерне ПЗ"
+  },
+  {
+    "code": "5735",
+    "description": "Магазини звукозапису"
+  },
+  {
+    "code": "5811",
+    "description": "Доставка їжі"
+  },
+  {
+    "code": "5812",
+    "description": "Кафе. Ресторани"
+  },
+  {
+    "code": "5813",
+    "description": "Бари"
+  },
+  {
+    "code": "5814",
+    "description": "Фаст-фуд"
+  },
+  {
+    "code": "5815",
+    "description": "Цифрові товари"
+  },
+  {
+    "code": "5816",
+    "description": "Ігри"
+  },
+  {
+    "code": "5817",
+    "description": "Програмне забезпечення"
+  },
+  {
+    "code": "5818",
+    "description": "Цифрові товари"
+  },
+  {
+    "code": "5832",
+    "description": "Антикваріат"
+  },
+  {
+    "code": "5912",
+    "description": "Аптеки"
+  },
+  {
+    "code": "5921",
+    "description": "Спиртні напої"
+  },
+  {
+    "code": "5931",
+    "description": "Секонд-хенд"
+  },
+  {
+    "code": "5932",
+    "description": "Антикваріат"
+  },
+  {
+    "code": "5933",
+    "description": "Ломбарди"
+  },
+  {
+    "code": "5935",
+    "description": "Автозвалище"
+  },
+  {
+    "code": "5937",
+    "description": "Магазини репродукцій"
+  },
+  {
+    "code": "5940",
+    "description": "Велосипеди"
+  },
+  {
+    "code": "5941",
+    "description": "Товари для спорту"
+  },
+  {
+    "code": "5942",
+    "description": "Книгарні"
+  },
+  {
+    "code": "5943",
+    "description": "Канцтовари"
+  },
+  {
+    "code": "5944",
+    "description": "Годинники"
+  },
+  {
+    "code": "5945",
+    "description": "Іграшки"
+  },
+  {
+    "code": "5946",
+    "description": "Фототовари"
+  },
+  {
+    "code": "5947",
+    "description": "Сувеніри"
+  },
+  {
+    "code": "5948",
+    "description": "Шкіряні вироби"
+  },
+  {
+    "code": "5949",
+    "description": "Товари для шиття"
+  },
+  {
+    "code": "5950",
+    "description": "Кришталь"
+  },
+  {
+    "code": "5960",
+    "description": "Страхування"
+  },
+  {
+    "code": "5961",
+    "description": "Товари поштою"
+  },
+  {
+    "code": "5962",
+    "description": "Подорожі"
+  },
+  {
+    "code": "5963",
+    "description": "Комівояжери"
+  },
+  {
+    "code": "5964",
+    "description": "Товари поштою"
+  },
+  {
+    "code": "5965",
+    "description": "Товари поштою"
+  },
+  {
+    "code": "5966",
+    "description": "Товари поштою"
+  },
+  {
+    "code": "5967",
+    "description": "Інформаційні послуги"
+  },
+  {
+    "code": "5968",
+    "description": "Підписки"
+  },
+  {
+    "code": "5969",
+    "description": "Товари поштою"
+  },
+  {
+    "code": "5970",
+    "description": "Художні товари"
+  },
+  {
+    "code": "5971",
+    "description": "Галереї"
+  },
+  {
+    "code": "5972",
+    "description": "Філателістика"
+  },
+  {
+    "code": "5973",
+    "description": "Церковні лавки"
+  },
+  {
+    "code": "5975",
+    "description": "Слухові апарати"
+  },
+  {
+    "code": "5976",
+    "description": "Протези"
+  },
+  {
+    "code": "5977",
+    "description": "Косметика"
+  },
+  {
+    "code": "5978",
+    "description": "Друкарські машини"
+  },
+  {
+    "code": "5983",
+    "description": "Паливо"
+  },
+  {
+    "code": "5992",
+    "description": "Флористика"
+  },
+  {
+    "code": "5993",
+    "description": "Тютюнові вироби"
+  },
+  {
+    "code": "5994",
+    "description": "Газети. Журнали"
+  },
+  {
+    "code": "5995",
+    "description": "Зоотовари"
+  },
+  {
+    "code": "5996",
+    "description": "Басейни"
+  },
+  {
+    "code": "5997",
+    "description": "Бритви"
+  },
+  {
+    "code": "5998",
+    "description": "Тенти"
+  },
+  {
+    "code": "5999",
+    "description": "Різне"
+  },
+  {
+    "code": "6010",
+    "description": "Каси"
+  },
+  {
+    "code": "6011",
+    "description": "Каси"
+  },
+  {
+    "code": "6012",
+    "description": "Фінансові послуги"
+  },
+  {
+    "code": "6051",
+    "description": "Квазі-кеш"
+  },
+  {
+    "code": "6211",
+    "description": "Цінні папери"
+  },
+  {
+    "code": "6300",
+    "description": "Страхування"
+  },
+  {
+    "code": "6381",
+    "description": "Страхування"
+  },
+  {
+    "code": "6399",
+    "description": "Страхування"
+  },
+  {
+    "code": "6513",
+    "description": "Оренда нерухомості"
+  },
+  {
+    "code": "7011",
+    "description": "Готелі"
+  },
+  {
+    "code": "7012",
+    "description": "Тайм-шер нерухомості"
+  },
+  {
+    "code": "7032",
+    "description": "Рекреація"
+  },
+  {
+    "code": "7033",
+    "description": "Кемпінг"
+  },
+  {
+    "code": "7210",
+    "description": "Прання й прибирання"
+  },
+  {
+    "code": "7211",
+    "description": "Прання"
+  },
+  {
+    "code": "7216",
+    "description": "Хімчистка"
+  },
+  {
+    "code": "7217",
+    "description": "Чистка"
+  },
+  {
+    "code": "7221",
+    "description": "Фотостудія"
+  },
+  {
+    "code": "7230",
+    "description": "Краса"
+  },
+  {
+    "code": "7251",
+    "description": "Ремонт одягу"
+  },
+  {
+    "code": "7261",
+    "description": "Ритуальні послуги"
+  },
+  {
+    "code": "7273",
+    "description": "Знайомства. Ескорт"
+  },
+  {
+    "code": "7276",
+    "description": "Податки"
+  },
+  {
+    "code": "7277",
+    "description": "Консультація"
+  },
+  {
+    "code": "7278",
+    "description": "Клуби"
+  },
+  {
+    "code": "7296",
+    "description": "Прокат одягу"
+  },
+  {
+    "code": "7297",
+    "description": "Масаж"
+  },
+  {
+    "code": "7298",
+    "description": "Здоров'я й краса"
+  },
+  {
+    "code": "7299",
+    "description": "Різне"
+  },
+  {
+    "code": "7311",
+    "description": "Реклама"
+  },
+  {
+    "code": "7321",
+    "description": "БКІ"
+  },
+  {
+    "code": "7332",
+    "description": "Копі-центри"
+  },
+  {
+    "code": "7333",
+    "description": "Фотографія й мистецтво"
+  },
+  {
+    "code": "7338",
+    "description": "Копі-центри"
+  },
+  {
+    "code": "7339",
+    "description": "Стенографія"
+  },
+  {
+    "code": "7342",
+    "description": "Дезінфекція"
+  },
+  {
+    "code": "7349",
+    "description": "Чистка й обслуговування"
+  },
+  {
+    "code": "7361",
+    "description": "Працевлаштування"
+  },
+  {
+    "code": "7372",
+    "description": "Програмування"
+  },
+  {
+    "code": "7375",
+    "description": "Інформаційні послуги"
+  },
+  {
+    "code": "7379",
+    "description": "Ремонт комп'ютерів"
+  },
+  {
+    "code": "7392",
+    "description": "Консультації, PR"
+  },
+  {
+    "code": "7393",
+    "description": "Детективні агентства"
+  },
+  {
+    "code": "7394",
+    "description": "Оренда спорядження"
+  },
+  {
+    "code": "7395",
+    "description": "Фотодрук"
+  },
+  {
+    "code": "7399",
+    "description": "Бізнес-послуги"
+  },
+  {
+    "code": "7511",
+    "description": "Стоянки"
+  },
+  {
+    "code": "7512",
+    "description": "Оренда авто"
+  },
+  {
+    "code": "7513",
+    "description": "Оренда вантажівок"
+  },
+  {
+    "code": "7519",
+    "description": "Оренда автомобілів"
+  },
+  {
+    "code": "7523",
+    "description": "Парковка"
+  },
+  {
+    "code": "7531",
+    "description": "Ремонт авто"
+  },
+  {
+    "code": "7534",
+    "description": "Шиномонтаж"
+  },
+  {
+    "code": "7535",
+    "description": "Автомобільні фарби"
+  },
+  {
+    "code": "7538",
+    "description": "СТО"
+  },
+  {
+    "code": "7542",
+    "description": "Автомийка"
+  },
+  {
+    "code": "7549",
+    "description": "Евакуатор"
+  },
+  {
+    "code": "7622",
+    "description": "Ремонт техніки"
+  },
+  {
+    "code": "7623",
+    "description": "Ремонт кліматичної техніки"
+  },
+  {
+    "code": "7629",
+    "description": "Ремонт техніки"
+  },
+  {
+    "code": "7631",
+    "description": "Ремонт годинників й ювелірних виробів"
+  },
+  {
+    "code": "7641",
+    "description": "Ремонт меблів"
+  },
+  {
+    "code": "7692",
+    "description": "Зравювальні роботи"
+  },
+  {
+    "code": "7699",
+    "description": "Ремонт"
+  },
+  {
+    "code": "7800",
+    "description": "Державна лотерея"
+  },
+  {
+    "code": "7801",
+    "description": "Онлайн-казино"
+  },
+  {
+    "code": "7802",
+    "description": "Скачки"
+  },
+  {
+    "code": "7829",
+    "description": "Виробництво відео"
+  },
+  {
+    "code": "7832",
+    "description": "Кінотеатри"
+  },
+  {
+    "code": "7841",
+    "description": "Прокат відео"
+  },
+  {
+    "code": "7911",
+    "description": "Танцювальні студії. Школи танцю"
+  },
+  {
+    "code": "7922",
+    "description": "Квитки"
+  },
+  {
+    "code": "7929",
+    "description": "Музичні групи. Оркестри"
+  },
+  {
+    "code": "7932",
+    "description": "Більярд"
+  },
+  {
+    "code": "7933",
+    "description": "Боулінг-клуби"
+  },
+  {
+    "code": "7941",
+    "description": "Спортклуби"
+  },
+  {
+    "code": "7991",
+    "description": "Туризм"
+  },
+  {
+    "code": "7992",
+    "description": "Гольф"
+  },
+  {
+    "code": "7993",
+    "description": "Відеоігри"
+  },
+  {
+    "code": "7994",
+    "description": "Відеоігри"
+  },
+  {
+    "code": "7995",
+    "description": "Азартні ігри"
+  },
+  {
+    "code": "7996",
+    "description": "Розваги"
+  },
+  {
+    "code": "7997",
+    "description": "Розваги та спорт"
+  },
+  {
+    "code": "7998",
+    "description": "Акваріуми. Дельфінарії"
+  },
+  {
+    "code": "7999",
+    "description": "Розваги та спорт"
+  },
+  {
+    "code": "8011",
+    "description": "Медецина"
+  },
+  {
+    "code": "8021",
+    "description": "Стоматологія"
+  },
+  {
+    "code": "8031",
+    "description": "Медицина"
+  },
+  {
+    "code": "8041",
+    "description": "Хіропрактики"
+  },
+  {
+    "code": "8042",
+    "description": "Оптика"
+  },
+  {
+    "code": "8043",
+    "description": "Оптика"
+  },
+  {
+    "code": "8044",
+    "description": "Оптика. Окуляри"
+  },
+  {
+    "code": "8049",
+    "description": "Ортопеди"
+  },
+  {
+    "code": "8050",
+    "description": "Доглядальниці"
+  },
+  {
+    "code": "8062",
+    "description": "Лікарні"
+  },
+  {
+    "code": "8071",
+    "description": "Медицина. Стоматологія"
+  },
+  {
+    "code": "8099",
+    "description": "Медичні послуги"
+  },
+  {
+    "code": "8111",
+    "description": "Юристи. Адвокати"
+  },
+  {
+    "code": "8211",
+    "description": "Школа"
+  },
+  {
+    "code": "8220",
+    "description": "Освіта. Університет"
+  },
+  {
+    "code": "8241",
+    "description": "Дистанційна освіта"
+  },
+  {
+    "code": "8244",
+    "description": "Освіта. Бізнес"
+  },
+  {
+    "code": "8249",
+    "description": "Освіта"
+  },
+  {
+    "code": "8299",
+    "description": "Освіта"
+  },
+  {
+    "code": "8351",
+    "description": "Дитячий садок"
+  },
+  {
+    "code": "8398",
+    "description": "Благодійність"
+  },
+  {
+    "code": "8641",
+    "description": "Громадські організації"
+  },
+  {
+    "code": "8651",
+    "description": "Політичні організації"
+  },
+  {
+    "code": "8661",
+    "description": "Релігійні організації"
+  },
+  {
+    "code": "8675",
+    "description": "Автоклуб"
+  },
+  {
+    "code": "8699",
+    "description": "Клуб"
+  },
+  {
+    "code": "8734",
+    "description": "Випробувальні лабораторії"
+  },
+  {
+    "code": "8911",
+    "description": "Архітектори"
+  },
+  {
+    "code": "8931",
+    "description": "Бухгалтерія. Аудит"
+  },
+  {
+    "code": "8999",
+    "description": "Професійні послуги"
+  },
+  {
+    "code": "9211",
+    "description": "Суд"
+  },
+  {
+    "code": "9222",
+    "description": "Штрафи"
+  },
+  {
+    "code": "9223",
+    "description": "Виплати. Облігації"
+  },
+  {
+    "code": "9311",
+    "description": "Податки"
+  },
+  {
+    "code": "9399",
+    "description": "Державні послуги"
+  },
+  {
+    "code": "9402",
+    "description": "Пошта"
+  },
+  {
+    "code": "9405",
+    "description": "Урядові закупівлі"
+  },
+  {
+    "code": "9700",
+    "description": "Кешбек"
+  },
+  {
+    "code": "9701",
+    "description": "Кешбек"
+  },
+  {
+    "code": "9702",
+    "description": "Аварійні служби"
+  },
+  {
+    "code": "9950",
+    "description": "Купівлі всередині компанії"
+  },
+  {
+    "code": "0742",
+    "description": "Ветеринари"
+  },
+  {
+    "code": "0763",
+    "description": "Сільскогосподарські кооперативи"
+  },
+  {
+    "code": "0780",
+    "description": "Садівництво. Ландшафтний дизайн"
+  }
+]

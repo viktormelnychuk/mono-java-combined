@@ -1,0 +1,20 @@
+{
+  "type": "StatementItem",
+  "data": {
+    "account": "mono_acc_id",
+    "statementItem": {
+      "id": "trans_id",
+      "time": 1696259020,
+      "description": "description",
+      "mcc": 4829,
+      "originalMcc": 4829,
+      "amount": 1000,
+      "operationAmount": 1000,
+      "currencyCode": 980,
+      "commissionRate": 0,
+      "cashbackAmount": 0,
+      "balance": 20919700,
+      "hold": true
+    }
+  }
+}

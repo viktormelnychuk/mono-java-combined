@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LoginComponent > should render 1`] = `
+"<div data-v-87276d9b=\\"\\" class=\\"login\\">
+  <el-card data-v-87276d9b=\\"\\">
+    <h2 data-v-87276d9b=\\"\\">Login</h2>
+    <el-form data-v-87276d9b=\\"\\" class=\\"login-form\\" model=\\"[object Object]\\" rules=\\"[object Object]\\">
+      <el-form-item data-v-87276d9b=\\"\\" prop=\\"username\\">
+        <el-input data-v-87276d9b=\\"\\" modelvalue=\\"\\" placeholder=\\"Username\\"></el-input>
+      </el-form-item>
+      <el-form-item data-v-87276d9b=\\"\\" prop=\\"password\\">
+        <el-input data-v-87276d9b=\\"\\" modelvalue=\\"\\" placeholder=\\"Password\\" type=\\"password\\"></el-input>
+      </el-form-item>
+      <el-form-item data-v-87276d9b=\\"\\">
+        <el-button data-v-87276d9b=\\"\\" loading=\\"false\\" class=\\"login-button\\" type=\\"primary\\" native-type=\\"submit\\" block=\\"\\">Login </el-button>
+      </el-form-item>
+    </el-form>
+  </el-card>
+</div>"
+`;
