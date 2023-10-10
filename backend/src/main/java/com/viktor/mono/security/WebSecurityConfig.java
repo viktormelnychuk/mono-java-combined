@@ -74,7 +74,7 @@ public class WebSecurityConfig {
                                 .requestMatchers(antMatcher("/socket/**")).permitAll()
                                 .requestMatchers(antMatcher("/api/v1/webhook/**")).permitAll()
                                 .requestMatchers(antMatcher("/error/**")).permitAll()
-                                .anyRequest().hasAnyAuthority("user")
+                                .anyRequest().permitAll()
 
                 );
         http.authenticationProvider(authenticationProvider());
